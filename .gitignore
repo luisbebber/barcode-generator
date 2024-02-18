@@ -2,3 +2,7 @@
 .venv
 .DS_Store
 public/assets/barcodes/*
+.pytest_cache
+
+run_raw.py
+validator_raw.py
